@@ -1,0 +1,19 @@
+{
+  "name": "debate-platform",
+  "version": "1.0.0",
+  "description": "a debate app that gives info about logical faliceys and makes a roulette style debate. Where you can debate with anyone else that is on the platform. Points are awarded to the person who wins. There is  an audience as well that can watch live and rewatch past debates.",
+  "main": "file_1737417620_0.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SteveNoyes/debate-platform.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SteveNoyes/debate-platform/issues"
+  },
+  "homepage": "https://github.com/SteveNoyes/debate-platform#readme"
+}
